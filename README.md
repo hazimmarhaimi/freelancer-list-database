@@ -57,8 +57,4 @@ To set up the `FreelancerDB` database, you can use the SQL script provided in th
 
 > **Caution:** The `freelancer_script.sql` script will create the `FreelancerDatas2` table and insert the sample data. Make sure you don't execute it in a production environment as it may lead to data duplication.
 
-## Contributions
-
-Contributions to the `FreelancerDB` are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
-
 ---
